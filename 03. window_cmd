@@ -1,0 +1,6 @@
+1. cmd 창에서 한글깨짐 확인
+  - chcp 명령어을 통해 명령프롬프트에서 표현하는 언어를 확인한다
+    1. active code page : 437(미국)
+    2. active code page : 949(한국)
+    3. active code page : 65001(UTF-8)
+  - chcp [active code]를 입력하여 변경한다
